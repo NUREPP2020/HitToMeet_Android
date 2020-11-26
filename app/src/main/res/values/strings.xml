@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">HitToMeet</string>
+    <string name="email_hint">Введите e-mail</string>
+    <string name="password_hint">Придумайте пароль</string>
+    <string name="nickname_hint">Никнейм</string>
+    <string name="sex_male">МУЖСКОЙ</string>
+    <string name="sex_female">ЖЕНСКИЙ</string>
+    <string name="registration_confirm_button_text">Создать</string>
+    <string name="registration_goto_authorization_text">У меня уже есть аккаунт</string>
+    <string name="enter_text">Войти</string>
+    <string name="register_text">Зарегестрироваться</string>
+    <string name="enter_email_hint">Введите почту</string>
+    <string name="enter_pass_hint">Введите пароль</string>
+    <string name="next_quiz_button_text">Далее</string>
+    <string name="quiz_1question_1option_answer_text">Вариант 1</string>
+    <string name="quiz_1question_2option_answer_text">Вариант 2</string>
+    <string name="quiz_1question_3option_answer_text">Вариант 3</string>
+    <string name="quiz_1question_4option_answer_text">Вариант 4</string>
+    <string name="quiz_1question_header_text">Вопрос #1</string>
+    <string name="quiz_1question_question_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Vestibulum a tortor urna. Suspendisse sed accumsan ipsum.
+        In consequat orci dignissim sem tincidunt pretium euismod at elit</string>
+</resources>
